@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# file2.txt 파일은 업로드 하지 않겠음
+file2.txt
